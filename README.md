@@ -1,4 +1,4 @@
-# My first kaggle competition--Tweet sentiment extraction
+# My first kaggle competition--Tweet sentiment extraction(Top 6%)
 ## Background
 在这个比赛中，我们得到一个包含有特定情绪的tweet的数据集，我们将挑选出tweet中反映该情绪的部分(单词或短语)。因此，我们的训练集包含三个列，包括tweet、sentiment和selected_text(word或phrase)。在测试集中，我们将预测selected_text。
 ## Dataloader
