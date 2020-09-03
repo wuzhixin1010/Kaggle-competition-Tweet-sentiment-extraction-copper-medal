@@ -21,3 +21,6 @@ def jaccard(str1, str2):
     return float(len(c)) / (len(a) + len(b) - len(c))
 
 ```
+## 附：
++ [我的kaggle](https://www.kaggle.com/wuzhixin)
++ [这个比赛Sota](https://www.kaggle.com/c/tweet-sentiment-extraction/discussion/159477)
